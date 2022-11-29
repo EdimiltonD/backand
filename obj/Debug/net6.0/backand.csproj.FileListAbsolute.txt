@@ -1,0 +1,15 @@
+C:\Users\oi417388\Desktop\backandnew\backand\bin\Debug\net6.0\backand.exe
+C:\Users\oi417388\Desktop\backandnew\backand\bin\Debug\net6.0\backand.deps.json
+C:\Users\oi417388\Desktop\backandnew\backand\bin\Debug\net6.0\backand.runtimeconfig.json
+C:\Users\oi417388\Desktop\backandnew\backand\bin\Debug\net6.0\backand.dll
+C:\Users\oi417388\Desktop\backandnew\backand\bin\Debug\net6.0\backand.pdb
+C:\Users\oi417388\Desktop\backandnew\backand\obj\Debug\net6.0\backand.csproj.AssemblyReference.cache
+C:\Users\oi417388\Desktop\backandnew\backand\obj\Debug\net6.0\backand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oi417388\Desktop\backandnew\backand\obj\Debug\net6.0\backand.AssemblyInfoInputs.cache
+C:\Users\oi417388\Desktop\backandnew\backand\obj\Debug\net6.0\backand.AssemblyInfo.cs
+C:\Users\oi417388\Desktop\backandnew\backand\obj\Debug\net6.0\backand.csproj.CoreCompileInputs.cache
+C:\Users\oi417388\Desktop\backandnew\backand\obj\Debug\net6.0\backand.dll
+C:\Users\oi417388\Desktop\backandnew\backand\obj\Debug\net6.0\refint\backand.dll
+C:\Users\oi417388\Desktop\backandnew\backand\obj\Debug\net6.0\backand.pdb
+C:\Users\oi417388\Desktop\backandnew\backand\obj\Debug\net6.0\backand.genruntimeconfig.cache
+C:\Users\oi417388\Desktop\backandnew\backand\obj\Debug\net6.0\ref\backand.dll
