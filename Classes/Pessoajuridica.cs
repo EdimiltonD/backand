@@ -1,3 +1,4 @@
+using System.Text.RegularExpressions;
 using backand.Interfaces;
 
 namespace backand.Classes
@@ -37,7 +38,19 @@ namespace backand.Classes
 
         public bool ValidarCnpj(string cnpj)
         {
-            throw new NotImplementedException();
+           bool retornoCnpjValido = Regex.IsMatch(cnpj, @"^(\d{14})|(\d{2}.\d{3}.\d{3}/\d{4}-\d{2})$");
+
+           if (retornoCnpjValido)
+{
+        string SubstringCnpj = cnpj.Substring(8 , 4);
+        
+        if(SubstringCnpj =="0001");
+        {
+          return true;
+        }
+
+        }
+        return false;
         }
     }
 }
