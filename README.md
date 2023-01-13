@@ -24,6 +24,11 @@ C#
 
 Instalar o .NET SDK; Abrir o projeto em um editor de código.
 
+# Execução
+
+dotnet run
+
+
 
 
 
